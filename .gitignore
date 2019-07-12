@@ -1,7 +1,9 @@
 .ipynb_checkpoints/
 .idea/
-
+*__pycache__/
 labs/saved_agents/
-utils/__pycache__/
 saved_agents/
 videos
+gym
+labs/gym-results/
+labs/video/
